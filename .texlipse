@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Thu Aug 08 05:18:34 EST 2013
+markTmpDer=true
+builderNum=6
+outputDir=out/
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=MATH135_TPL.tex
+outputFile=MATH135_TPL.pdf
+langSpell=en
+markDer=true
+srcDir=src/
